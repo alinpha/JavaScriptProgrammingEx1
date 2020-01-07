@@ -1,1 +1,1 @@
-# JavaScriptProgrammingEx1
+# JavaScript Programming Ex1
