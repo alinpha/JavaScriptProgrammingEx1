@@ -80,3 +80,25 @@ console.log("Mod with rem");
 modRes = 13 % 4
 console.log(modRes);
 console.log("~~~~~~~~~~~~~~~~~~~~~~");
+
+console.log("++ starting at 3");
+let a = 3;
+a++;
+console.log(a);
+console.log();
+
+console.log("-- starting at 7");
+let b = 7;
+b--;
+b--;
+console.log(b);
+console.log();
+
+console.log("compound -= 7 & 5");
+let myForthInt = 7;
+myForthInt -= 5;
+/*
+    Equivalent
+    myForthInt = myForthInt - 5
+*/
+console.log(myForthInt);
